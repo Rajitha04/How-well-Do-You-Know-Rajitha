@@ -1,4 +1,4 @@
-How-well-Do-You-Know-Rajitha
+
 How Well Do You Know Rajitha quiz?
 A fun yes/no quiz which contains questions about me
 It's a CLI project using nodd.js
